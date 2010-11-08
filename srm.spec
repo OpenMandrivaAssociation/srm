@@ -6,7 +6,7 @@ URL: 		http://srm.sourceforge.net
 Group: 		System/Base
 Source: 	%{name}-%{version}.tar.bz2
 
-Summary: srm (secure rm) is a command-line compatible rm(1) which destroys file contents before unlinking.
+Summary: srm (secure rm) is a command-line compatible rm(1) which destroys file contents before unlinking
 
 %description
 This is srm, a secure replacement for rm(1). Unlike the standard rm,
