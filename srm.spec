@@ -1,6 +1,6 @@
 Name: 		srm
 Version: 	1.2.10
-Release: 	%mkrel 1
+Release: 	%mkrel 2
 License: 	MIT
 URL: 		http://srm.sourceforge.net
 Group: 		System/Base
