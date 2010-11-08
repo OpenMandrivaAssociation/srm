@@ -4,7 +4,6 @@ Release: 	%mkrel 1
 License: 	MIT
 URL: 		http://srm.sourceforge.net
 Group: 		System/Base
-Vendor: 	Matt Gauthier <elleron@yahoo.com>
 Source: 	%{name}-%{version}.tar.bz2
 
 Summary: srm (secure rm) is a command-line compatible rm(1) which destroys file contents before unlinking.
