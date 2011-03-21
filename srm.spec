@@ -1,6 +1,6 @@
 Name: 		srm
 Version: 	1.2.11
-Release: 	%mkrel 1
+Release: 	%mkrel 2
 License: 	MIT
 URL: 		http://srm.sourceforge.net
 Group: 		System/Base
@@ -10,7 +10,7 @@ Summary: srm (secure rm) is a command-line compatible rm(1) which destroys file 
 
 %description
 This is srm, a secure replacement for rm(1). Unlike the standard rm,
-it overwrites the data in the target files before unlinkg them. This
+it overwrites the data in the target files before unlinking them. This
 prevents command-line recovery of the data by examining the raw block
 device. It may also help frustrate physical examination of the disk,
 although it's unlikely that completely protects against this type of
