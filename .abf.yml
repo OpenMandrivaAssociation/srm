@@ -1,2 +1,4 @@
+removed_sources:
+  srm-1.2.11.tar.bz2: 89dc28cf7f803137dfebfbfe63d3e8d37b53c716
 sources:
-  "srm-1.2.11.tar.bz2": 89dc28cf7f803137dfebfbfe63d3e8d37b53c716
+  srm-1.2.13.tar.gz: 9a08039a0f64e13c866e0046b8c46272f001c478
