@@ -2,7 +2,7 @@ Name: 		srm
 Version: 	1.2.13
 Release: 	2
 License: 	MIT
-URL: 		http://srm.sourceforge.net
+URL: 		https://srm.sourceforge.net
 Group: 		System/Base
 Source: 	%{name}-%{version}.tar.gz
 
